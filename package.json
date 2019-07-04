@@ -1,0 +1,22 @@
+{
+  "name": "mobx-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  },
+  "dependencies": {}
+}
